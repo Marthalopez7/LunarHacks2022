@@ -35,4 +35,5 @@ prompts_list = [
 ]
 
 prompt = random.choice(prompts_list)
-#print(prompt)
+prompts_list.remove(prompt)
+print(prompt)
