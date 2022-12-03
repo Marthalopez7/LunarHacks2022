@@ -137,5 +137,17 @@ footer {
     background-color: #446164;
     width: 100%;
     color: #F2F2F2;
+    list-style: none;
 
+}
+
+.footer-content {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px;
+}
+
+.footer-content :first-child   {
+    margin-right: 10px;
 }
