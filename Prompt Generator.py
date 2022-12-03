@@ -35,4 +35,4 @@ prompts_list = [
 ]
 
 prompt = random.choice(prompts_list)
-print(prompt)
+#print(prompt)
