@@ -5,6 +5,22 @@
     font-style: normal;
 }
 
-header {
-    background-image: ;
+header nav {
+    background-color: #446164;
+    color: #F2F2F2;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.hero  {
+    background-image: url(images/pexels-lyovtravels-levon-13415559.jpg);
+    height: 75vh;
+    width: 100%;
+}
+
+ul >li {
+    text-decoration: none;
 }
